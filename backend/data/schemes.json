@@ -1,0 +1,118 @@
+{
+    "schemes": [
+      {
+        "scheme_name": "Kanya Saksharta Protsahan Yojana",
+        "description": "A scheme to promote education among Scheduled Caste girls by providing financial incentives for completing their education.",
+        "eligibility_criteria": {
+            "gender": "Female",
+            "age": {"min": null, "max": null},
+            "caste": "Scheduled Caste (SC)",
+            "location": ["Rural", "Urban"],
+            "marital_status": null,
+            "education_level": "Completed 10th grade and entering 11th grade",
+            "income": "Guardians should not be income taxpayers"
+        },
+        "required_documents": [
+            "Aadhaar Card",
+            "Passport-size photograph",
+            "Samagra ID",
+            "Caste certificate",
+            "Bank account details/bank passbook",
+            "Income certificate",
+            "Domicile certificate of Madhya Pradesh",
+            "10th grade passing marksheet"
+            
+        ],
+        "benefits": "Financial incentive of ₹3,000/- per year",
+        "application_process": "Apply online via the official state government portal, if available, or submit an offline application to the District Social Welfare Office or school administration.",
+        "official_link": "https://www.myscheme.gov.in/schemes/kspyscg#eligibility"
+        },
+      {
+        "scheme_name": "Indira Gandhi National Widow Pension Scheme",
+        "description": "It is a non-contributory pension scheme to provide social security to widows of poor family (BPL)  of the society.",
+        "eligibility_criteria": {
+          "gender": "Female",
+          "age": {"min": 40, "max": null},
+          "caste": null,
+          "location": ["Rural"],
+          "marital_status": "widow",
+          "income": "Below Poverty Line (BPL)"
+        },
+        "required_documents": [
+          "Death Certificate of husband - With the name of the surviving wife(widow).",
+          "BPL Card",
+          "Age Proof"
+        ],
+        "benefits": "A pension of Rs.300/- per month to Widows between 40 years and 79 years, and pension of Rs.500/- per month for persons who are 80 years and above.",
+        "application_process": "Submit an offline application at your local Block Development Office/Municipality with required documents or apply online via the UMANG app or NSAP portal.",
+        "official_link": "https://www.myscheme.gov.in/schemes/ignwps"
+      },
+      {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "description": "It promotes financial inclusion by providing banking services to unbanked adults, with enhanced overdraft limits and insurance coverage.",
+        "eligibility_criteria": {
+          "gender" : null,
+          "age": {"min": null, "max": null},
+          "caste": null,
+          "location": null,
+          "marital_status": null,
+          "nationality": "Applicant should be an Indian National."
+        },
+        "benefits": "A Basic Savings Bank Deposit Account (BSBDA) with no minimum balance requirement and a limit of 4 withdrawals per month. Small accounts can be opened without legal documents, valid for 12 months and extended if an official document application is submitted. Beneficiaries receive a free RuPay debit card with accident insurance coverage of ₹2 lakhs (₹1 lakh for accounts opened before 28.08.2018). An overdraft facility of up to ₹10,000 is available, and Business Correspondents (BCs) or Bank Mitras provide banking services in remote areas, assisting with savings, deposits, and withdrawals.",
+        "application_process": "Visit a nearby bank branch with valid identification and provide required documents. Minors above 10 years need a guardian's support for account management.",
+        "required_documents": [
+            "Aadhaar Card",
+            "Government ID proofs (Voter Card/PAN Card/Ration card)",
+            "Permanent Address proof (Passport/Driving License/Electricity Bill/Telephone Bill/Water Bill)",
+            "Passport size photograph"
+        ],
+        "official_link": "https://www.myscheme.gov.in/schemes/pmjdy"
+      },
+      {
+        "scheme_name": "Gaon Ki Beti",
+        "description": "MP Gaon Ki Beti Yojna scholarship is an initiative to support the education of girl children from rural areas who have passed Class 12 with first division.",
+        "eligibility_criteria": {
+            "gender": "Female",
+            "age": {"min": null, "max": null},
+            "caste": null,
+            "location": ["Rural"],
+            "marital_status": null,
+            "education_level": "Secured 60% or more marks in the 12th examination."
+        },
+        "benefits": "Assistance up to Rs. 5000/- is provided annually to the girl student.",
+        "application_process": "Apply online via https://hescholarship.mp.gov.in",
+        "required_documents":[
+            "Class 12 marksheet",
+            "Age certificate",
+            "Domicile certificate",
+            "Caste certificate",
+            "Income certificate of parents",
+            "Village daughter certificate.",
+            "Samagra ID",
+            "Current college code and branch code",
+            "Mobile number and email id of the candidate",
+            "Passport-size photograph of the candidate."
+        ],
+        "official_link": "https://www.myscheme.gov.in/schemes/gkb"
+      },
+      {
+        "scheme_name": "Usha Kiran Yojana",
+        "description": "To provide protection and assistance against domestic violence, thereby implementing the Women's Protection from Domestic Violence Act 2005, Rule 2006.",
+        "eligibility_criteria":{
+            "gender":"Female",
+            "age": {"min": null, "max": null},
+            "caste": null,
+            "location": null,
+            "marital_status": null
+        },
+        "benefits":"Providing protection and support against domestic violence",
+        "application_process":"Applicants have to visit the following centers- Protection Officer (Project Officer-Integrated Child Development Project Office), One Stop Center operated in the district, Police Station.",
+        "required_documents":[
+            "Aadhaar Card",
+            "Passport size photograph"
+        ],
+        "official_link": "https://www.myscheme.gov.in/schemes/uky"
+       }
+    ]
+  }
+  
